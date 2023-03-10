@@ -36,3 +36,6 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, possuo conhecimento 
 <div style="text-align:center">
     <img height="250px" src="https://cdn.discordapp.com/attachments/525488826911555602/1083592230423502858/yoda_2.gif">
 <div>
+
+    
+![Snake Animation](https://github.com/AndersonGSFarias/AndersonGSFarias/blob/output/github-contibution-grid-snake.svg)
