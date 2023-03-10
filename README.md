@@ -38,4 +38,4 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, possuo conhecimento 
 <div>
 
     
-![Snake Animation](https://github.com/AndersonGSFarias/AndersonGSFarias/blob/output/github-contibution-grid-snake.svg)
+![snake gif](https://github.com/AndersonGSFarias/AndersonGSFarias/blob/output/github-contribution-grid-snake.svg)
