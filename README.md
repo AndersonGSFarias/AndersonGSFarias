@@ -5,7 +5,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, possuo conhecimento 
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGSFarias&layout=compact&langs_count=7&theme=dark)](https://github.com/AndersonGSFarias/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGSFarias&layout=compact&langs_count=7&theme=dark)](https://github.com/AndersonGSFarias/github-readme-stats) -->
 
 ### <b> Tecnologias que conheço <br>
 
