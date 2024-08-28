@@ -1,11 +1,11 @@
 ### <b> Olá, me chamo Anderson Gabriel 😄 <p>
 Sou um estudante de Análise e Desenvolvimento de Sistemas, possuo conhecimento em algumas tecnologias e estou estudando outras para sempre melhorar meu conhecimento. <b><p>
 
-![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonGSFarias&show_icons=true&theme=dark)
+<!-- ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonGSFarias&show_icons=true&theme=dark) -->
 
 <br>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGSFarias&layout=compact&langs_count=7&theme=dark)](https://github.com/AndersonGSFarias/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGSFarias&layout=compact&langs_count=7&theme=dark)](https://github.com/AndersonGSFarias/github-readme-stats) 
 
 ### <b> Tecnologias que conheço <br>
 
