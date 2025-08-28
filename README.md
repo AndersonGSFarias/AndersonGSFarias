@@ -1,5 +1,5 @@
 ### <b> Olá, me chamo Anderson Gabriel 😄 <p>
-Sou um estudante de Análise e Desenvolvimento de Sistemas, possuo conhecimento em algumas tecnologias e estou estudando outras para sempre melhorar meu conhecimento. <b><p>
+Sou desenvolvedor Front-end Júnior, iniciando minha trajetória na área de tecnologia com entusiasmo e dedicação. Tenho focado meus estudos no desenvolvimento de interfaces modernas, responsivas e acessíveis, utilizando tecnologias como HTML, CSS, JavaScript e React. <b><p>
 
 <!-- ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonGSFarias&show_icons=true&theme=dark) -->
 
